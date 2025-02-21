@@ -1,0 +1,10 @@
+name: your_environment_name  # Replace to your environment name
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pytorch-cuda=12.3

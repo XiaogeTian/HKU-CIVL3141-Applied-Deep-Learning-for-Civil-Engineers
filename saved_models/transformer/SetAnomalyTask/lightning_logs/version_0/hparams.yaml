@@ -1,0 +1,10 @@
+dropout: 0.1
+input_dim: 512
+input_dropout: 0.1
+lr: 0.0005
+max_iters: 35150
+model_dim: 256
+num_classes: 1
+num_heads: 4
+num_layers: 4
+warmup: 100
