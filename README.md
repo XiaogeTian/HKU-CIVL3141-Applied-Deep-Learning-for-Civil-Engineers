@@ -34,6 +34,7 @@ Please check the tutorial about how to use Anaconda to build up an environment f
 
 - Anaconda installation tutorial: https://www.youtube.com/watch?v=5mDYijMfSzs
 - Torch installation tutorial: https://www.youtube.com/watch?v=EMXfZB8FVUA
+- Using "pip install -r requirement.txt" to install the required packages. Please adjust the version of pytorch and cuda based on your gpu certain type.
 
 - PyTorch website
   - Installation from <url id="cusrgfj1huinrmadcb4g" type="url" status="parsed" title="PyTorch" wc="2468">https://pytorch.org/</url>
