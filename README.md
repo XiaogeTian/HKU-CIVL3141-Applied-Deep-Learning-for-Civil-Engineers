@@ -27,16 +27,14 @@ Upon completion of this course, students are expected to be able to conduct the 
 ## Installing programing packages
 - During installing the packages, it is recommended to use Anaconda as the environment setup tool for creating the virtual environment. 
 Please check the tutorial about how to use Anaconda to build up an environment for establishing deep learning framework Pytorch/Tensorflow (Pytorch will be the one this repo utilized). 
-https://www.youtube.com/watch?v=5mDYijMfSzs
-
-
-https://www.youtube.com/watch?v=EMXfZB8FVUA
 
 - Python
   - Python 3.8
     Installation of a Python distribution such as Anaconda recommended
     Quick start with LearnPython.org (<url id="cusrgfj1huinrmadcb2g" type="url" status="parsed" title="Learn Python - Free Interactive Python Tutorial" wc="1632">http://learnpython.org/</url> ) and DataCamp (<url id="cusrgfj1huinrmadcb30" type="url" status="parsed" title="Just a moment..." wc="159">http://www.datacamp.com/courses/tech:python</url> )
 
+- Anaconda installation https://www.youtube.com/watch?v=5mDYijMfSzs
+- Torch installation https://www.youtube.com/watch?v=EMXfZB8FVUA
 
 - PyTorch
   - Installation from <url id="cusrgfj1huinrmadcb4g" type="url" status="parsed" title="PyTorch" wc="2468">https://pytorch.org/</url>
