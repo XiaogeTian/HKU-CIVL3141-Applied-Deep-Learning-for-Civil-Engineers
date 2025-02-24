@@ -33,10 +33,10 @@ Please check the tutorial about how to use Anaconda to build up an environment f
     Installation of a Python distribution such as Anaconda recommended
     Quick start with LearnPython.org (<url id="cusrgfj1huinrmadcb2g" type="url" status="parsed" title="Learn Python - Free Interactive Python Tutorial" wc="1632">http://learnpython.org/</url> ) and DataCamp (<url id="cusrgfj1huinrmadcb30" type="url" status="parsed" title="Just a moment..." wc="159">http://www.datacamp.com/courses/tech:python</url> )
 
-- Anaconda installation https://www.youtube.com/watch?v=5mDYijMfSzs
-- Torch installation https://www.youtube.com/watch?v=EMXfZB8FVUA
+- Anaconda installation tutorial: https://www.youtube.com/watch?v=5mDYijMfSzs
+- Torch installation tutorial: https://www.youtube.com/watch?v=EMXfZB8FVUA
 
-- PyTorch
+- PyTorch website
   - Installation from <url id="cusrgfj1huinrmadcb4g" type="url" status="parsed" title="PyTorch" wc="2468">https://pytorch.org/</url>
 
 
