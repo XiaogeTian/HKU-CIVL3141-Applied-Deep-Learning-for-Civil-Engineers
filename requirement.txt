@@ -1,0 +1,50 @@
+# Core Python and Utilities
+python==3.x  # Specify your preferred Python 3 version (e.g., 3.11)
+
+# Machine Learning and Data Science
+numpy==1.24.4
+pandas==2.0.3
+scikit-learn==1.3.2
+scipy==1.10.1
+datasets==3.1.0
+huggingface-hub==0.28.1
+evaluate==0.4.3
+
+# Deep Learning Frameworks
+torch==2.4.1+cu124  # PyTorch with CUDA 12.4 support (adjust based on your GPU)
+torchvision==0.19.1+cu124
+torchaudio==2.4.1+cu124  # Optional, for audio generation tasks
+tensorflow==2.15.0  # Alternative framework (version inferred; adjust as needed)
+keras==3.5.0  # High-level API (version inferred; adjust as needed)
+pytorch-lightning==2.4.0  # For structured PyTorch projects
+torchmetrics==1.5.2  # Metrics for model evaluation
+
+# Generative AI Specific Libraries
+transformers==4.46.3  # For text generation and pretrained models
+diffusers==0.32.2  # For diffusion models (e.g., Stable Diffusion)
+safetensors==0.5.2  # Efficient model weight storage
+tokenizers==0.20.3  # Tokenization for text-based generative models
+
+# Data Processing and Visualization
+matplotlib==3.7.5
+seaborn==0.13.2
+pillow==10.4.0  # Image processing
+opencv-contrib-python==4.11.0.86  # Advanced image processing
+pyarrow==17.0.0  # Efficient data handling
+
+# API and Language Model Integration
+openai==1.63.0  # For interacting with OpenAI APIs
+langchain==0.2.17  # For building applications with language models
+langchain-community==0.2.19
+tiktoken==0.7.0  # Token counting for language models
+
+# Web and HTTP Utilities (Optional for API-based projects)
+requests==2.32.3
+aiohttp==3.10.11
+httpx==0.28.1
+
+# Additional Utilities
+tqdm==4.67.1  # Progress bars
+filelock==3.13.1  # File locking for model downloads
+regex==2024.11.6  # Regular expressions
+pyyaml==6.0.2  # YAML parsing for configs

@@ -22,7 +22,16 @@ Upon completion of this course, students are expected to be able to conduct the 
 - Jayesh K. Gupta, 2020. Generative Adversarial Networks in Action. Manning Publications.
 
 
-## Programming Resources
+
+
+## Installing programing packages
+- During installing the packages, it is recommended to use Anaconda as the environment setup tool for creating the virtual environment. 
+Please check the tutorial about how to use Anaconda to build up an environment for establishing deep learning framework Pytorch/Tensorflow (Pytorch will be the one this repo utilized). 
+https://www.youtube.com/watch?v=5mDYijMfSzs
+
+
+https://www.youtube.com/watch?v=EMXfZB8FVUA
+
 - Python
   - Python 3.8
     Installation of a Python distribution such as Anaconda recommended
@@ -31,6 +40,7 @@ Upon completion of this course, students are expected to be able to conduct the 
 
 - PyTorch
   - Installation from <url id="cusrgfj1huinrmadcb4g" type="url" status="parsed" title="PyTorch" wc="2468">https://pytorch.org/</url>
+
 
 
 ## Reference
