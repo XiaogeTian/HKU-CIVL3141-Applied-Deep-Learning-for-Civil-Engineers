@@ -10,10 +10,9 @@ Upon completion of this course, students are expected to be able to conduct the 
 - Comparing different Generative AI approaches based on common performance criteria.
 ## Prerequisites
 - Students are expected to have the following background:
-- Obtained a Bachelor's degree in engineering or science;
 - Basic knowledge in computer science and programming;
 - Knowledge of basic machine learning principles. However, it is also ok if you are not familiar with deep learning. We will offer lectures and tutorials to teach you how to implement Generative AI models with Python.
-- College-level calculus, linear algebra and matrix analysis, probability and statistical analysis.
+
 
 ## Reading Materials
 - Ian Goodfellow, Yoshua Bengio, and Aaron Courville, 2016. Deep Learning. MIT Press.
