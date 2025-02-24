@@ -31,3 +31,15 @@ Upon completion of this course, students are expected to be able to conduct the 
 
 - PyTorch
   - Installation from <url id="cusrgfj1huinrmadcb4g" type="url" status="parsed" title="PyTorch" wc="2468">https://pytorch.org/</url>
+
+
+## Reference
+- Neuromatch Academy. (n.d.). Introduction to Deep Learning with PyTorch. Retrieved from https://github.com/NeuromatchAcademy/course-content-dl. Licensed under Creative Commons Attribution 4.0 International License (CC BY 4.0) and BSD (3-Clause) License.
+
+- Inkawhich, N. A., Wen, W., Li, H., & Chen, Y. (2019). Feature Space Perturbations Yield More Transferable Adversarial Examples. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*. 
+
+- Paszke, A., Gross, S., Chintala, S., Chanan, G., Yang, E., DeVito, Z., Lin, Z., Desmaison, A., Antiga, L., & Lerer, A. (2017). Automatic Differentiation in PyTorch. In *Proceedings of the 31st Conference on Neural Information Processing Systems (NIPS)*.
+
+- Jupyter Development Team. (2023). Jupyter Notebook. Retrieved from https://jupyter.org/
+
+- Inkawhich, N. A. (2023). GitHub - inkawhich. Retrieved from https://github.com/inkawhich 
