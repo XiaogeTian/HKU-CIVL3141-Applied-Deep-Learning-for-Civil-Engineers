@@ -16,6 +16,9 @@ Upon completion of this course, students are expected to be able to conduct the 
 # GPU requirements
 - Students with GPU resources can try to create the environment by themselves. If students don't have available GPU to use, you can visit the colab folder where the same repo are uploaded. In colab, you don't have to hold a GPU to run the codes. You can use the default T4 GPU to use. 
 - Colab link：
+
+
+# Colab notebook
 | Tutorial            | Link                                                                 |
 |---------------------|----------------------------------------------------------------------|
 | CIVL3141 GAN Tutorial 1 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Egr0YYKu2bq6xNfPHOepdMI3YXPHVjgH) |
