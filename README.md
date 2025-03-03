@@ -13,6 +13,9 @@ Upon completion of this course, students are expected to be able to conduct the 
 - Basic knowledge in computer science and programming;
 - Knowledge of basic machine learning principles. However, it is also ok if you are not familiar with deep learning. We will offer lectures and tutorials to teach you how to implement Generative AI models with Python.
 
+# GPU requirements
+- Students with GPU resources can try to create the environment by themselves. If students don't have available GPU to use, you can visit the colab folder where the same repo are uploaded. In colab, you don't have to hold a GPU to run the codes. You can use the default T4 GPU to use. 
+- Colab link:https://drive.google.com/drive/folders/1t64-EOTFa51KGf9rTSsfB1iv25pR0m7T?usp=sharing
 
 ## Reading Materials
 - Ian Goodfellow, Yoshua Bengio, and Aaron Courville, 2016. Deep Learning. MIT Press.
