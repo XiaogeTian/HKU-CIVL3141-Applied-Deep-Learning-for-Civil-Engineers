@@ -1,5 +1,5 @@
 # HKU-CIVL3141-Applied-Deep-Learning-for-Civil-Engineers
-Course instructor: Prof. Jiaji Wang and Prof. Xugang Wang
+Course instructor: Prof. Jiaji Wang and Prof. Xugang Wang.
 For quesitons related to this repo, please contact corresponding TA Mr Tian Xiaoge (Email: xiaogetian@connect.hku.hk) or use Ed forum
 ## Course Description
 This course is a bachelor year-four level tutorial that introduces the theory and application of Generative AI across various domains, including computer generative AI in conducting natural language processing, images generation, and Large Language Model api call. The course will first illustrate existing examples and applications of Generative AI, helping students understand the foundational concepts and methodologies. Then, the course will delve into advanced topics, including **Generative Adversarial Networks (GANs), Diffusion model, Transformer, and transformer-based Large Language Model api call**. In the meantime, the course will demonstrate the application of Generative AI in solving real-world problems, such as image generation, text generation, and data augmentation.
