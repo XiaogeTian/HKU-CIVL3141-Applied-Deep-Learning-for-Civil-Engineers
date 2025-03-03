@@ -35,6 +35,12 @@ Below are the tutorials for CIVL3141, organized by topic. Click the badges to op
 - [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://www.youtube.com/watch?v=Ii6gs9zADEA)  
 - [![Bilibili](https://img.shields.io/badge/Bilibili-Watch-blue)](https://www.bilibili.com/video/BV13K4y1P7dx/?spm_id_from=333.337.search-card.all.click&vd_source=50c2bd940a07d78c3da3454e340a992f)
 
+For the LLM-GPT api call part, Qwen model (通义千问百炼大模型) is free to use within 6 months with free capacity of 500k tokens. Please visit their official website to sign up and get your own api-key to use in the tutorial notebook. 
+If you have alipay account:https://www.alibabacloud.com/en/solutions/generative-ai/qwen?_p_lc=1
+If you want to use email: https://www.alibabacloud.com/en/solutions/generative-ai/qwen?_p_lc=1
+There are also tutorials about the Qwen model api call on videos. Please check below:
+- [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://www.youtube.com/watch?v=wijvCBmzVvE)  
+
 # GPU requirements
 - Students with GPU resources can try to create the environment by themselves. If students don't have available GPU to use, you can visit the colab folder where the same repo are uploaded. In colab, you don't have to hold a GPU to run the codes. You can use the default T4 GPU to use. 
 - Colab link：
