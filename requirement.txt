@@ -11,9 +11,9 @@ huggingface-hub==0.28.1
 evaluate==0.4.3
 
 # Deep Learning Frameworks
-torch==2.4.1+cu124  # PyTorch with CUDA 12.4 support (adjust based on your GPU)
-torchvision==0.19.1+cu124
-torchaudio==2.4.1+cu124  # Optional, for audio generation tasks
+torch # PyTorch with CUDA 12.4 support (adjust based on your GPU)
+torchvision
+torchaudio  # Optional, for audio generation tasks
 tensorflow==2.15.0  # Alternative framework (version inferred; adjust as needed)
 keras==3.5.0  # High-level API (version inferred; adjust as needed)
 pytorch-lightning==2.4.0  # For structured PyTorch projects
