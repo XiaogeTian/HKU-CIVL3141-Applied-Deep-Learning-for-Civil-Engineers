@@ -13,17 +13,27 @@ Upon completion of this course, students are expected to be able to conduct the 
 - Basic knowledge in computer science and programming;
 - Knowledge of basic machine learning principles. However, it is also ok if you are not familiar with deep learning. We will offer lectures and tutorials to teach you how to implement Generative AI models with Python.
 
-# GPU requirements
-- Students with GPU resources can try to create the environment by themselves. If students don't have available GPU to use, you can visit the colab folder where the same repo are uploaded. In colab, you don't have to hold a GPU to run the codes. You can use the default T4 GPU to use. 
-- Colab link：
-
 
 # Colab notebook
 | Tutorial            | Link                                                                 |
 |---------------------|----------------------------------------------------------------------|
 | CIVL3141 GAN Tutorial 1 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Egr0YYKu2bq6xNfPHOepdMI3YXPHVjgH) |
-| CIVL3141 GAN Tutorial 1 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Egr0YYKu2bq6xNfPHOepdMI3YXPHVjgH) |
-| CIVL3141 GAN Tutorial 1 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Egr0YYKu2bq6xNfPHOepdMI3YXPHVjgH) |
+| CIVL3141 GAN Tutorial 2 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Egr0YYKu2bq6xNfPHOepdMI3YXPHVjgH) |
+| CIVL3141 GAN Tutorial 3 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Egr0YYKu2bq6xNfPHOepdMI3YXPHVjgH) |
+| CIVL3141 Diffusion Tutorial 1 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Egr0YYKu2bq6xNfPHOepdMI3YXPHVjgH) |
+| CIVL3141 Diffusion Tutorial 2 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Egr0YYKu2bq6xNfPHOepdMI3YXPHVjgH) |
+| CIVL3141 Diffusion Tutorial 3 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Egr0YYKu2bq6xNfPHOepdMI3YXPHVjgH) |
+| CIVL3141 Transformer Tutorial | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Egr0YYKu2bq6xNfPHOepdMI3YXPHVjgH) |
+| CIVL3141 LLM-GPT API Call Tutorial 1 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Egr0YYKu2bq6xNfPHOepdMI3YXPHVjgH) |
+| CIVL3141 LLM-GPT API Call Tutorial 1 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Egr0YYKu2bq6xNfPHOepdMI3YXPHVjgH) |
+
+
+# GPU requirements
+- Students with GPU resources can try to create the environment by themselves. If students don't have available GPU to use, you can visit the colab folder where the same repo are uploaded. In colab, you don't have to hold a GPU to run the codes. You can use the default T4 GPU to use. 
+- Colab link：
+
+
+
 
 ## Reading Materials
 - Ian Goodfellow, Yoshua Bengio, and Aaron Courville, 2016. Deep Learning. MIT Press.
