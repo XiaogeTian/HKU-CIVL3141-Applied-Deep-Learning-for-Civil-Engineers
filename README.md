@@ -14,18 +14,24 @@ Upon completion of this course, students are expected to be able to conduct the 
 - Knowledge of basic machine learning principles. However, it is also ok if you are not familiar with deep learning. We will offer lectures and tutorials to teach you how to implement Generative AI models with Python.
 
 
-# Colab notebook
-| Tutorial            | Link                                                                 |
-|---------------------|----------------------------------------------------------------------|
-| CIVL3141 GAN Tutorial 1 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Egr0YYKu2bq6xNfPHOepdMI3YXPHVjgH) |
-| CIVL3141 GAN Tutorial 2 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Egr0YYKu2bq6xNfPHOepdMI3YXPHVjgH) |
-| CIVL3141 GAN Tutorial 3 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Egr0YYKu2bq6xNfPHOepdMI3YXPHVjgH) |
-| CIVL3141 Diffusion Tutorial 1 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Egr0YYKu2bq6xNfPHOepdMI3YXPHVjgH) |
-| CIVL3141 Diffusion Tutorial 2 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Egr0YYKu2bq6xNfPHOepdMI3YXPHVjgH) |
-| CIVL3141 Diffusion Tutorial 3 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Egr0YYKu2bq6xNfPHOepdMI3YXPHVjgH) |
-| CIVL3141 Transformer Tutorial | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Egr0YYKu2bq6xNfPHOepdMI3YXPHVjgH) |
-| CIVL3141 LLM-GPT API Call Tutorial 1 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Egr0YYKu2bq6xNfPHOepdMI3YXPHVjgH) |
-| CIVL3141 LLM-GPT API Call Tutorial 1 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Egr0YYKu2bq6xNfPHOepdMI3YXPHVjgH) |
+
+# CIVL3141 Tutorials
+
+Below are the tutorials for CIVL3141, organized by topic. Click the badges to open in Google Colab.
+
+| Tutorial Topic             | Tutorial Number | Link                                                                 |
+|----------------------------|-----------------|----------------------------------------------------------------------|
+| **GAN**                   | Tutorial 1      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Egr0YYKu2bq6xNfPHOepdMI3YXPHVjgH) |
+|                            | Tutorial 2      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/[TUTORIAL_2_LINK]) |
+|                            | Tutorial 3      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/[TUTORIAL_3_LINK]) |
+| **Diffusion**             | Tutorial 1      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/[DIFFUSION_1_LINK]) |
+|                            | Tutorial 2      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/[DIFFUSION_2_LINK]) |
+|                            | Tutorial 3      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/[DIFFUSION_3_LINK]) |
+| **Transformer**           | Tutorial 1      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/[TRANSFORMER_LINK]) |
+| **LLM-GPT API Call**      | Tutorial 1      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/[LLM_1_LINK]) |
+|                            | Tutorial 2      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/[LLM_2_LINK]) |
+
+**Note**: Replace the placeholder links (e.g., `[TUTORIAL_2_LINK]`) with the actual Colab URLs for each tutorial.
 
 
 # GPU requirements
