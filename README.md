@@ -22,14 +22,14 @@ Below are the tutorials for CIVL3141, organized by topic. Click the badges to op
 | Tutorial Topic             | Tutorial Number | Link                                                                 |
 |----------------------------|-----------------|----------------------------------------------------------------------|
 | **GAN**                   | Tutorial 1      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Egr0YYKu2bq6xNfPHOepdMI3YXPHVjgH) |
-|                            | Tutorial 2      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/[TUTORIAL_2_LINK]) |
-|                            | Tutorial 3      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/[TUTORIAL_3_LINK]) |
-| **Diffusion**             | Tutorial 1      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/[DIFFUSION_1_LINK]) |
-|                            | Tutorial 2      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/[DIFFUSION_2_LINK]) |
-|                            | Tutorial 3      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/[DIFFUSION_3_LINK]) |
-| **Transformer**           | Tutorial 1      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/[TRANSFORMER_LINK]) |
-| **LLM-GPT API Call**      | Tutorial 1      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/[LLM_1_LINK]) |
-|                            | Tutorial 2      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/[LLM_2_LINK]) |
+|                            | Tutorial 2      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Y0JCEw4OTqmRzndjkxtTsSZhjJOzUzSh) |
+|                            | Tutorial 3      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iHfaqpv1yTwF_jGO9M47HdmU0cW6bTxV) |
+| **Diffusion**             | Tutorial 1      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AygAtKEJi5sl-w4wb65nCbbzvS59c0pr) |
+|                            | Tutorial 2      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SpU_J6XLrBvjnWj0CSgwl5JHZuhwAhfs) |
+|                            | Tutorial 3      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SpU_J6XLrBvjnWj0CSgwl5JHZuhwAhfs) |
+| **Transformer**           | Tutorial 1      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Uq247eb4wlVQx5EpbFM1Zcz7nQ4Z669N) |
+| **LLM-GPT API Call**      | Tutorial 1      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1p0WsflZte0sQExjj1RRZODZU6Mv8_Ktl) |
+|                            | Tutorial 2      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Y8fe8HxPXOB4AlvzbV-jlDzAr68ku4NH) |
 
 **Note**: Colab is free to use with T4 GPU. Students can explore how to use Colab with the links below:
 - [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://www.youtube.com/watch?v=Ii6gs9zADEA)  
