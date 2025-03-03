@@ -31,8 +31,9 @@ Below are the tutorials for CIVL3141, organized by topic. Click the badges to op
 | **LLM-GPT API Call**      | Tutorial 1      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/[LLM_1_LINK]) |
 |                            | Tutorial 2      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/[LLM_2_LINK]) |
 
-**Note**: Replace the placeholder links (e.g., `[TUTORIAL_2_LINK]`) with the actual Colab URLs for each tutorial.
-
+**Note**: Colab is free to use with T4 GPU. Students can explore how to use Colab with the links below:
+- [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://www.youtube.com/watch?v=Ii6gs9zADEA)  
+- [![Bilibili](https://img.shields.io/badge/Bilibili-Watch-blue)](https://www.bilibili.com/video/BV13K4y1P7dx/?spm_id_from=333.337.search-card.all.click&vd_source=50c2bd940a07d78c3da3454e340a992f)
 
 # GPU requirements
 - Students with GPU resources can try to create the environment by themselves. If students don't have available GPU to use, you can visit the colab folder where the same repo are uploaded. In colab, you don't have to hold a GPU to run the codes. You can use the default T4 GPU to use. 
