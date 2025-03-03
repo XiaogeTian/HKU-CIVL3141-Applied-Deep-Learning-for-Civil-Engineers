@@ -19,7 +19,11 @@ Upon completion of this course, students are expected to be able to conduct the 
 - | Tutorial            | Link                                                                 |
 |---------------------|----------------------------------------------------------------------|
 | CIVL3141 GAN Tutorial 1 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Egr0YYKu2bq6xNfPHOepdMI3YXPHVjgH) |
+
+
 | CIVL3141 GAN Tutorial 1 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Egr0YYKu2bq6xNfPHOepdMI3YXPHVjgH) |
+
+
 | CIVL3141 GAN Tutorial 1 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Egr0YYKu2bq6xNfPHOepdMI3YXPHVjgH) |
 
 ## Reading Materials
