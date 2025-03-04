@@ -24,8 +24,7 @@ Below are the tutorials for CIVL3141, organized by topic. Click the badges to op
 |----------------------------|-----------------|----------------------------------------------------------------------|
 | **GAN**                    | Tutorial 1      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Egr0YYKu2bq6xNfPHOepdMI3YXPHVjgH)  |
 |                            | Tutorial 2      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Y0JCEw4OTqmRzndjkxtTsSZhjJOzUzSh) |
-|                            | Tutorial 3      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.
-google.com/drive/1iHfaqpv1yTwF_jGO9M47HdmU0cW6bTxV) |
+|                            | Tutorial 3      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iHfaqpv1yTwF_jGO9M47HdmU0cW6bTxV) |
 | **CNN**                    | Tutorial 1      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AygAtKEJi5sl-w4wb65nCbbzvS59c0pr) |
 |                            | Tutorial 2      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SpU_J6XLrBvjnWj0CSgwl5JHZuhwAhfs) |
 | **Diffusion**              | Tutorial 1      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AygAtKEJi5sl-w4wb65nCbbzvS59c0pr) |
