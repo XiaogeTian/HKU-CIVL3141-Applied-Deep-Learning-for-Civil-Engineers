@@ -46,7 +46,7 @@ For the LLM-GPT api call part, Qwen model (通义千问百炼大模型) is free 
 
 # GPU requirements
 - Students with GPU resources can try to create the environment by themselves. If students don't have available GPU to use, you can visit the colab folder where the same repo are uploaded. In colab, you don't have to hold a GPU to run the codes. You can use the default T4 GPU to use. 
-- Colab link：
+- Colab link：https://drive.google.com/drive/folders/1t64-EOTFa51KGf9rTSsfB1iv25pR0m7T?usp=sharing
 
 
 
